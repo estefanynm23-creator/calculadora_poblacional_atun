@@ -87,7 +87,11 @@ class TunaPopulationCalculatorApp:
         plt.grid(True)
         plt.show()
 
-if __name__ == "__main__":
+def run_app():
+    """Initialize and run the Tuna Population Calculator application."""
     root = tk.Tk()
     app = TunaPopulationCalculatorApp(root)
     root.mainloop()
+
+if __name__ == "__main__":
+    run_app()
