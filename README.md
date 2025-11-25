@@ -13,11 +13,11 @@ El Calculador de Población de Atún es una aplicación interactiva diseñada pa
 - **Data Visualization**: Generates plots to visualize population dynamics over time.
 - **Sample Data**: Comes with sample biological data for testing and analysis.
 ## Caracteristicas
--**Interfaz gráfica interactiva**: Una interfaz gráfica fácil de usar para ingresar parámetros y visualizar el crecimiento de la población.
--**Modelo Beverton-Holt**: Implementa el modelo Beverton-Holt para predecir poblaciones futuras basadas en datos actuales.
--**Ajuste numérico de curvas**: Incluye métodos para ajustar con precisión los datos biológicos y mejorar las predicciones del modelo.
--**Visualización de datos**: Genera gráficos para visualizar la dinámica de la población a lo largo del tiempo.
--**Datos de muestra**: Viene con datos biológicos de muestra para pruebas y análisis.
+- **Interfaz gráfica interactiva**: Una interfaz gráfica fácil de usar para ingresar parámetros y visualizar el crecimiento de la población.
+- **Modelo Beverton-Holt**: Implementa el modelo Beverton-Holt para predecir poblaciones futuras basadas en datos actuales.
+- **Ajuste numérico de curvas**: Incluye métodos para ajustar con precisión los datos biológicos y mejorar las predicciones del modelo.
+- **Visualización de datos**: Genera gráficos para visualizar la dinámica de la población a lo largo del tiempo.
+- **Datos de muestra**: Viene con datos biológicos de muestra para pruebas y análisis.
 
 ## Installation
 1. Clone the repository:
@@ -34,12 +34,17 @@ El Calculador de Población de Atún es una aplicación interactiva diseñada pa
    ```
 ## Instalación
 1. Clona el repositorio:
+   ```
 git clone https://github.com/yourusername/tuna-population-calculator.git
-2. Navega al directorio del proyecto:
+   ```
+3. Navega al directorio del proyecto:
+   ```
 cd tuna-population-calculator
-3. Instala las dependencias requeridas:
+   ```
+4. Instala las dependencias requeridas:
+  ```
 pip install -r requirements.txt
-
+  ```
 
 ## Usage
 To run the application, execute the following command:
@@ -58,8 +63,8 @@ Esto lanzará la calculadora interactiva donde podrás ingresar parámetros y an
 - **Technical Documentation**: For detailed information about the code architecture and design decisions, refer to `docs/TECHNICAL.md`.
 - **User Guide**: For step-by-step instructions on using the application, refer to `docs/USER_GUIDE.md`.
 ## Documentación
-- **Documentación Técnica**: Para obtener información detallada sobre la arquitectura del código y las decisiones de diseño, consulta docs/TECHNICAL.md.
-- **Guía del Usuario**: Para instrucciones paso a paso sobre cómo usar la aplicación, consulta docs/USER_GUIDE.md.
+- **Documentación Técnica**: Para obtener información detallada sobre la arquitectura del código y las decisiones de diseño, consulta `docs/TECHNICAL.md`.
+- **Guía del Usuario**: Para instrucciones paso a paso sobre cómo usar la aplicación, consulta `docs/USER_GUIDE.md`.
 
 
 ## Contributing
