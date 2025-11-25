@@ -35,16 +35,17 @@ El Calculador de Población de Atún es una aplicación interactiva diseñada pa
 ## Instalación
 1. Clona el repositorio:
    ```
-git clone https://github.com/yourusername/tuna-population-calculator.git
+   git clone https://github.com/yourusername/tuna-population-calculator.git
    ```
 3. Navega al directorio del proyecto:
    ```
-cd tuna-population-calculator
+   cd tuna-population-calculator
    ```
 4. Instala las dependencias requeridas:
-  ```
-pip install -r requirements.txt
-  ```
+   ```
+   pip install -r requirements.txt
+   ```
+
 
 ## Usage
 To run the application, execute the following command:
